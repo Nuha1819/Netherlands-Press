@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import requests
-from google_search_results import GoogleSearch
+from serpapi import GoogleSearch
 from dotenv import load_dotenv
 import re
 from selenium import webdriver
