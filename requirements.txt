@@ -1,0 +1,6 @@
+   streamlit
+   pandas
+   requests
+   serpapi
+   python-dotenv
+   selenium
