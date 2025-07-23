@@ -1,6 +1,6 @@
    streamlit
    pandas
    requests
-   serpapi
+   google-search-results
    python-dotenv
    selenium
